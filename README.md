@@ -18,6 +18,5 @@ The content in this repository is directly related to the **(Nome do Curso)** of
 This repository is organized to make it easy to navigate the different course materials.
 
 -   **`notebooks/`**: Contains all Jupyter notebooks with code, notes, and explanations for each module.
--   **`data/`**: A place to store any datasets used in the projects and exercises.
--   **`projects/`**: Dedicated to larger, final projects that integrate multiple concepts from the course.
-```
+
+
