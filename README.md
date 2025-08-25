@@ -1,4 +1,4 @@
-```
+
 # `data-science-tools-notebook`
 
 This repository was created to store my projects, exercises, and Jupyter notebooks from the **Data Science Tools** course on **Coursera**.
